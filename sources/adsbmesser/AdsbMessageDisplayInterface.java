@@ -2,7 +2,7 @@ package adsbmesser;
 
 /**
  * Class displays the contents of an ADSB-Message
- * @Author Jonathan Smyth
+ * @Author David Mändlen, damait06@hs-esslingen.de
  * */
 public interface AdsbMessageDisplayInterface
 {

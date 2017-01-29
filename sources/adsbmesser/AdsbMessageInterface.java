@@ -2,7 +2,7 @@ package adsbmesser;
 
 /**
  * Class contains data sent from an aircraft
- * @author Jonathan Smyth
+ * @author David Mändlen <damait06@hs-esslingen.de>
  * */
 public interface AdsbMessageInterface
 {

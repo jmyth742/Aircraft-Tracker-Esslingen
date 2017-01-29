@@ -4,7 +4,7 @@ import adsbsenser.*;
 /**
  * Class creates ADSB-Messages from ADSB-Sentences
  *
- * @Author Jonathan Smyth
+ * @Author David Mändlen, damait06@hs-esslingen.de
  * */
 public interface AdsbMessageFactoryInterface
 {

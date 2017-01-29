@@ -3,7 +3,7 @@
  * Aircrafts will be deleted after time of inactivity
  * If you put an aircraft to the cache you can pass the time in ms
  *
- * @author Jonny Smyth
+ * @author Ulf Schmelzer
  * @version 0.10
  */
 package adsbacamo;

@@ -2,7 +2,7 @@
  * AdsbSenser displays information about airplanes gathered from a specific
  * webserver given to the software via a parameter.
  *
- * @author Jonathan Smyth
+ * @author David Mändlen
  * @version 0.9
  * */
 

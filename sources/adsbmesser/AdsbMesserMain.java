@@ -1,7 +1,7 @@
 package adsbmesser;
 
 /**
- * @Author Jonathan Smyth
+ * @Author David Mändlen, damait06@hs-esslingen.de
  * */
 public class AdsbMesserMain
 {
