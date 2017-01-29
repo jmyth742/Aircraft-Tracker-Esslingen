@@ -2,7 +2,7 @@ package adsbmesser;
 
 /**
  * Class contains information about an aircraft's ID
- * @author David Mändlen, damait06@hs-esslingen.de
+ * @author Jonathan Smyth
  * */
 public interface AdsbAircraftIdentificationMessageInterface
 {

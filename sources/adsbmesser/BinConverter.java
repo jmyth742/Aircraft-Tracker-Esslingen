@@ -3,7 +3,7 @@ package adsbmesser;
 import java.lang.*;
 /**
  * Class to convert hexadecimal values to binary ones
- * @Author David Mändlen, damait06@hs-esslingen.de
+ * @Author Jonathan Smyth
  * */
 public class BinConverter
 {
