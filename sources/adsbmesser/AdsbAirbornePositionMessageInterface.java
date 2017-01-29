@@ -1,7 +1,7 @@
 package adsbmesser;
 /**
  * Class contains information about an aircraft's position in the sky
- * @author David Mändlen <damait06@hs-esslingen.de>
+ * @author Jonathan Smyth
  * @version 1.0
  * */
 public interface AdsbAirbornePositionMessageInterface

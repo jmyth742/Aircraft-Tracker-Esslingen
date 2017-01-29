@@ -4,7 +4,7 @@ import java.lang.*;
 import java.util.*;
 
 /**
- * @author David Mändlen, damait06@hs-esslingen.de
+ * @author Jonathan Smyth
  * @version 1.0
  * */
 public class AISUtil

@@ -6,7 +6,7 @@ import java.util.*;
  * Exists solely to provide a running program for the already implemented class
  * AdsbSenser for testing purposes
  *
- * @author David Mändlen, Ulf Schmelzer
+ * @author Jonathan Smyth
  * */
 public class AdsbSenserMain
 {

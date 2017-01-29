@@ -2,7 +2,7 @@ package adsbmesser;
 
 /**
  * Class contains information about an aircraft's movement in the sky
- * @Author David Mändlen, damait06@hs-esslingen.de
+ * @Author Jonathan Smyth
  * */
 public interface AdsbAirborneVelocityMessageInterface
 {
